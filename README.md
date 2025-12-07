@@ -1,4 +1,4 @@
-# Price-Optimisation-and-Revenue-Simulation-Project
+# Price Optimisation and Revenue Simulation Project
 Overview
 
 Many companies struggle to set optimal product prices due to fluctuating demand, promotions, seasonality, and competitive pressures. Incorrect pricing can lead to lost revenue or reduced market share. This project addresses these challenges by analyzing historical sales data to compute price elasticity, recommend optimal prices, and simulate revenue impact.
